@@ -1,0 +1,73 @@
+
+<html>
+    <head>
+      <title>RECOMMENDATIONS</title>
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+      <style>
+     .first
+     {
+         background-color: dimgray;
+         color:gold;
+         height: 50px;
+     }
+     #sample
+     {
+         background-image: url(https://www.umeshmistry.com/Admin/Content/Chicken-Curry-_-Food-Photography.jpg);
+         background-repeat:no-repeat;
+         height: 400px;
+         background-size: cover;
+         background-position: center center;
+         opacity: 0.9;
+         color: white;
+     }
+     input
+     {
+         color: black;
+     }
+      </style>
+    </head>
+    <body>
+     <div class=first>
+         <center style="padding-top: 10px; font-size: larger;">
+             YUMMY TUMMY!!</center>
+     </div><br>
+     <div class="jumbotron" id=sample>
+         <div class="container">
+         <p style="float: right; border-style: solid; color:black;">SIGNOUT</p>
+             <br><br>
+          <center style="font-size: 30px;">Find the best foods and restaurants</center> <br>
+           <center>
+            <form action="{% url 'search' %}" method="POST" >
+                {% csrf_token %}
+              <input type="text" name="search" placeholder="Feeling Hungry..." size="50" height="60px" >
+              <button class=" btn btn-danger" style="background-color: rgb(209, 60, 46);">Search</button>     
+                </form>
+            </center>
+         </div>
+       </div>
+       <center>
+  <table border=1>
+     <strong> <h1 style="color:blueviolet; ">RECOMMENDED DISHES FOR YOU!!</h1></strong>
+          {% if values %}
+          {% for i in values %}
+          {% for x,y in i.items %}
+          <tr><td><h2>{{ x }}</h2></td>
+            <td><h2>{{ y.0 }}</h2></td></tr>
+          {% endfor %}
+          {% endfor %}
+          {% endif %}
+  </table></center>
+  <center>
+  <table border=1>
+    <strong>    <h1 style="color:cornflowerblue; ">RECOMMENDED BASED ON YOUR PREFERNCE!!</h1></strong>
+          {% if preference %}
+          {% for i in preference %}
+          {% for x,y in i.items %}
+          <tr><td><h2>{{ x }}</h2></td>
+            <td><h2>{{ y.0 }}</h2></td></tr>
+          {% endfor %}
+          {% endfor %}
+          {% endif %}
+        </table></center>
+    </body>
+  </html>

@@ -1,0 +1,94 @@
+age,location,resname,ord1,ord2,rev1,rev2,cusine1,cusine2
+16,Mannadi,Dakshin,Rajma,Ennai kathirikkai,3,5,1,2
+18,Royapuram,The Marina,Navrattan korma,Idiappam(Tamil Nadu),4,4,1,1
+19,velachery,Murugan's idli,Phirni,Idli,5,4,2,2
+40,· Naws Habullan Avenue 1st Street,KFC,Bucket Chicken,Indian omelette,3,4,1,2
+41,· Narasimha Nagar 1st St,Spice heat,Chana masala,Kaara kozhambu(Tamil Nadu),5,4,2,2
+44,Choolai,Madurai Pandiyan Mess,Tandoori Fish Tikka,Kanji,5,3,1,2
+43,· Lala Thottam Road,Olives,Jaleba,Keerai kootu(Tamil Nadu),1,4,2,2
+45,velachery,Krishna Sweets,Gajar ka halwa,Keerai poriyal,4,4,3,2
+46,Ritchie Street,Seasonal Taste,Aloo shimla mirch,Keerai sadam(Tamil Nadu),4,5,1,2
+47,· Mangappan Street,Peshawari,Khichdi,Kerala_Beef_Fry,1,3,3,2
+48,Nungambakkam High Road,Starbucks,Capuchinno,Koottu,4,4,1,2
+49,· Mathala Narayanan Street,Copper Kitchen,Palak paneer,Kori rotti,3,4,2,2
+30,Triplicane,ratna café,Gobhi matar,Kos kootu,3,4,3,2
+31,Nungambakkam High Road,Starbucks,Capuchinno,Koshambri,3,4,1,1
+34,· Narayana Chetti Street,Sangeetha Hotel,Mushroom matar,Kothamali sadam,4,4,1,1
+33,MAnjambakkam,Moon rackers,Bhindi masala,Kuzhakkattai,4,4,3,1
+34,T nagar,Absolute Barbecue ,Chicken 65,Kuzhambu,1,3,1,2
+35,· Thanthai.Periyar Salai,Garden view restaurant,Fara,Masala Dosa,1,3,1,2
+36,"· Walajabad - Sunguvarchathiram -
+Keelachery Road",Brownie Heaven,Chocolate Brownie,Nandu omelette,4,3,2,2
+37,Perambur,Anjapar,Shahi paneer,"Obbattu (holige, bobbattu, pooran-poli)",3,4,1,2
+38,Anna Salai,Ponnuswammi,Biryani,Olan (dish),3,4,3,2
+39,Villivakkam,7 Spices,French bean aloo,Pachadi,3,3,1,2
+40,· Mavadi Vinayagar Koil Street,Waterfall Restaurant,Chicken razala,Paniyaram,3,5,2,1
+41,velachery,singers,Dal fry with tadka,Papadum,4,4,1,2
+43,Selavoyal,Orange Oaks,Tandoori Chicken,Parotta (Kerala),4,5,2,2
+44,· Nattu Subbarayan 1st Lane,Al Arabian Grills,Naan Roti,Paruppu sadam,1,4,1,2
+45,Korukkupet,Rotiwala,Dal makhani (kali dal),Payasam,4,5,2,2
+46,Puzhal,Arabian Nights,Kadhi pakoda,Pesarattu,4,3,2,2
+47,Anna Salai,Ponnuswammi,Biryani,Pongal,3,1,1,2
+48,· Thirumazhisai - Sathyavedu Road,Cool basil,Kachori,Poriyal,1,4,1,
+49, Triplicane,Sagar,Butter chicken,Puli sadam,3,1,1,2
+50,· Mottai Maistry Street,Drunken Monkey,Choco Shake,Puttu,3,4,2,2
+51,· Mottai Maistry Street,Drunken Monkey,Choco Shake,Ragi mudhe,3,4,1,2
+54,· Nattu Subburayan Street,Tips Frankie,Paneer tikka masala,Rasam (dish),3,5,2,2
+53,Kodungaiyur West,Punjabi Dhaba,Chicken Tikka masala,Sajjige,4,3,3,2
+54,Perambur,Anjapar,Shahi paneer,Sakkara pongal,4,4,3,1
+55,Pulinanthope,Gazebo,Aloo gobi,Sambar,4,4,1,2
+56,Sowcarpet,Kulfi House,Kulfi falooda,Sandige(Karnataka),5,3,2,2
+57,Manali,Honey Falls,Rongi,Sevai,1,3,1,2
+58,Selavoyal,Orange Oaks,Tandoori Chicken,Sevai lunch,4,3,1,2
+59,Sembiam,Café Shiras,Samosa,"Thayir sadam, mosaranna",4,3,3,2
+60,Ganapathipuram Thulasingapuram Road,Noodles theory,Baati,Theeyal,5,4,1,2
+61,George Town,Gangotri,Pani puri,Thengai sadam,3,4,2,2
+64,Old Washermenpet,Tosai,Aloo tikki,Uttapam,4,1,2,1
+63, Nallanna Mudali Street,Hotbreads,Chaat,Vada,5,3,1,2
+64,Ranganathan Street,Cream Stone,Strawberry crunch,Varuval,5,5,1,2
+65,Kodungaiyur East,Papas Roti,Papad,Puri Bhaji,3,3,1,2
+66,Elangovan Street,Faasus,Katha meetha petha / halwakadoo,Rasya muthia,4,1,1,3
+67,Edapalayam,Spicy Kitchen,Kheer,Sabudana Khichadi,1,4,3,3
+69,· Dr Abdul Kalam Road,Choco Match,Pista Icecream,Sev tameta,3,3,2,1
+70,Kavangarai,Cream Stone,Red Velvet Cake,Shakarpara,4,3,1,1
+71,· Kanchipuram Road,Van's Kitchen,Dibba rotti,Namakpara,5,3,1,2
+19,Puzhal,Arabian Nights,Kadhi pakoda,Shankarpali,4,1,1,2
+31,Park Town,Doner Grill,Daal baati churma,Shiro,1,1,3,1
+55,· East Coast Road Sh49,Halwa Kada,Singhada halwa,Shrikhand,4,4,3,3
+48,"Inner Ring Road, Chennai",Viscosity,Kofta,Sohan papdi,1,1,1,1
+40,Basin Bridge,Copper Chimney,Misi roti,Chakri (chakali),3,3,1,1
+40,"Old Jail Road, Chennai",Punjabi Dhaba,Chole bhature,Chevdo,1,5,1,1
+45,Madhavaram,New Kulji,Pakhala,Cholafali,4,5,3,1
+35,Ponniammanmedu,Zaitoon,Rajma chaval,Chorafali,4,4,3,1
+34,Ponniammanmedu,Zaitoon,Rajma chaval,Copra paak,3,4,2,1
+65,Kolathur,Gangotri,Jalebi,Daal Dhokli,4,1,1,1
+53,· Manikka Vinayagar Kovil St,Budha Hut,Sweet pethas / kesar petha / pista petha,Dabeli,4,4,1,1
+70,· Nattu Subbarayan 1st Lane,Al Arabian Grills,Naan Roti,Dahi vada,3,1,1,1
+15,Ennore,Paramount,Chapati,Dalithoy,4,1,1,1
+36,Moolakadai,Red Box,"Makki di roti, sarson da saag",Dhokla,4,3,1,1
+60,Seven Wells,The table,Pindi chana,Dudhi no halwo,4,4,3,1
+39,Periametu,Rajdhani,Daal puri,Dum aaloo,3,4,3,1
+64,Madhavaram Milk Colony,Pind,Hari mutter ka nimona (green peas daal),Pohe,5,3,1,1
+31,Vallalar Nagar,Nalas Appa Kadai,Kadai paneer,Gajar halwo,3,1,1,1
+44,· Chennai Bypass Expressway,Seasonal Taste,Mixed vegetable,Gatta curry,3,1,1,1
+57,"· Sivagami Nagar, First Street",SS hyderabad ,Biryani,Ghari (sweet from Surat),3,5,1,1
+54,· Dharga Road,Buhari,Chicken Tikka,Ghooghra,4,4,1,1
+16,· Babu Street,Masale Dhar,Dal fara,Gud papdi (Gol papdi),4,4,1,
+36,· Anna Salai High Road,Koral restaurant,Aloo matar,Gulab jamun,3,3,1,1
+61,· Chittibabu Nagar - Ambal Nagar,Sea Lord,Amritsari fish,Halvasan,3,4,2,3
+15,· Annai Indira Nagar,Bamboo Café,Litti chokha,Handwo (steamed dish),4,4,2,1
+54,· Arumuga Cherry Street,Daba Express,Paratha,Gur,4,4,2,3
+48,· Ambika Nagar Main Road,Mr. Pupdi,Paneer butter masala,Jalebi,4,3,2,1
+44,· Anna Salai,Willows,Samose,Jeera Aloo,5,1,1,1
+50,· Dargah Rd,Ibaco,Chocolate Icecream,Juvar no rotlo,1,3,1,3
+61,· Mottai Maistry Street,Drunken Monkey,Choco Shake,Kansar,4,4,1,1
+43,· Chennai Bypass,,Avial (Tamil Nadu),Keri no ras,4,5,1,1
+69,· Singaravelar Salai,Pastry Corner,Halwa,Khakhra,4,4,2,1
+55,· Dharga Road,Buhari,Chicken Tikka,Kombdi vade,1,1,2,3
+16,· Shanti Nagar Main Road,Spice In,Bonda,Koshimbir,5,4,1,3
+67,· Suri Amman Koil St,Chettinadu,Chettinadu Chicken,Laapsi,5,3,3,3
+44,· Singaperumal Koil Tiruvallur Highway,Ponnuswammi,Chicken 65,Laddu,4,4,3,1
+57,· Dr Abdul Kalam Road,Choco Match,Pista Icecream,Locha,4,4,1,1
+16,· Kanchipuram Road,Van's Kitchen,Dibba rotti,Malpua,4,3,3,1
+47,· Nayanar St,Madras Pavilion,Dosa,Methi na Gota,1,1,2,1
+46,Ranganatha Perumal Temple,Pot Luck,Double ka meetha,Modak,1,3,2,1

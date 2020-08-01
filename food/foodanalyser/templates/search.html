@@ -1,0 +1,59 @@
+<html>
+    <head>
+        <title>recommendations</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <style>
+            .top
+            {
+                background-color: rgb(24, 59, 105);
+                color: goldenrod;
+                height:70px;
+                font-size: 30px;
+            }
+         
+        </style>
+    </head>
+    <body>
+        <div class="top"><center>Your Searches!!!</center></div><br>
+
+        <center>
+            <table name="foodtable" border=1>
+                {% if search %}
+                {% for i in search %}
+                {% for x,y in i.items %}
+                <tr>
+                <th><h2>{{ x }}</h2></th>
+                <th><h2>{{ y }}</h2></th>
+                </tr>
+                {% endfor %}
+                {% endfor %}
+                {% endif %}
+                </table></center>
+                <br>
+
+        <h1 style="padding-left: 5px;"><strong>Collections</strong></h1>
+        <p style="color: dimgray;">Explore curated lists of top restaurants, cafes, pubs, and bars in India, based on trends</p>
+
+
+        <div class="panel panel-danger" style="width:auto; display:flex; padding-left: 18px;">
+        <div class="panel-heading">
+        <img src="https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-rounded" height="200" width="300">
+        </div>
+        
+        <div class="panel-heading">
+            <img src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/wzixvrkrgr4mrglnwccq" height="200" width="300">
+            </div>
+
+            <div class="panel-heading">
+                <img src="https://restaurantindia.s3.ap-south-1.amazonaws.com/s3fs-public/content9555.jpg" class="img-rounded" height="190" width="300">
+            </div>
+           
+            <div class="panel-heading">
+                <img src="https://www.gpogrand.com/files/large/prime-steak-restaurant-sydney-cbd-dessert-3.jpg" class="img-rounded" height="200" width="300">
+            </div>
+            
+
+        </div>
+       
+    </body>
+</html>
